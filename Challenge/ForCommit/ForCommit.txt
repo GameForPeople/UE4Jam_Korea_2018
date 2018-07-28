@@ -1,3 +1,4 @@
-18/07/28 Design World Level (Static Mesh)
-18/07/28 Car AI
+18/07/27 Design World Level (Static Mesh)
+18/07/27 Car AI
 18/07/28 10:50 Create BatteryMesh and Attach Character
+18/07/28 12:00 Create Consent Blue Print 
