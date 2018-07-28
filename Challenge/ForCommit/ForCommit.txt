@@ -1,2 +1,3 @@
 18/07/28 Design World Level (Static Mesh)
 18/07/28 Car AI
+18/07/28 10:50 Create BatteryMesh and Attach Character
