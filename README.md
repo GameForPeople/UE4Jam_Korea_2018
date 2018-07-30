@@ -19,7 +19,7 @@ __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
 ![TipImg4](./Challenge/ForCommit/GitTip4.png)
 
 > 아래 경로에서 패키징된 실행파일을 다운로드 받으실 수 있습니다.
-> * Version 0.2 (2018-07-30) [Download Link (Google Drive)][1] 
+> Version 0.2 (2018-07-30) [Download Link (Google Drive)][1] 
 
 재밌게 플레이해주세요!
 
@@ -27,8 +27,8 @@ __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
 
 감사합니다. :)
 
-Version 0.1 (2018-07-29) 최초 패키징 버전
-Version 0.2 (2018-07-30) SuccessVFX 추가, SuccessSFX 제거, MultiOverlap exception handling
+>*Version 0.1 (2018-07-29) 최초 패키징 버전
+>*Version 0.2 (2018-07-30) SuccessVFX 추가, SuccessSFX 제거, MultiOverlap exception handling
 
 
 [1]:https://drive.google.com/open?id=1dmDOBL34az80TLjYGfEAXXLuSLGWBLla
