@@ -37,6 +37,7 @@ __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
 
 >* Version 0.1 (2018-07-29) 최초 패키징 버전
 >* Version 0.2 (2018-07-30) SuccessVFX 추가, SuccessSFX 제거, MultiOverlap exception handling
+>* Version 0.3 (2018-08-01) Private: Adjust Precomputed Lighting Scenarios ( Day or Night )
 
 
 [1]:https://drive.google.com/open?id=1dmDOBL34az80TLjYGfEAXXLuSLGWBLla
