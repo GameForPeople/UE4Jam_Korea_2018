@@ -7,3 +7,4 @@
 18/07/28 16:00 End Level Design
 18/07/28 23:00 Adjust Only Work NPC AI
 18/07/29 03:00 Adjust In NPC AI
+18/08/03 11:50 Version 0.3 Adjust Precomputed Lighting Scenarios ( Day or Night ), Adjust UX, etc Change
