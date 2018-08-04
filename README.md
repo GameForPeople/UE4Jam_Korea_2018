@@ -3,8 +3,9 @@ __도전에 도전하라 : "Find the plug!" project 저장소에 방문해주셔
 
 ![TitleImg](./Challenge/ForCommit/Title.png)
 
-> 이 프로젝트는, UE4Jam Korea 2018에 출품한 작품으로, 언리얼엔진4로 제작되었습니다. 
-3일의 짧은 기간동안 1인 개발로 진행되어 많은 부분이 미흡하니 양해부탁드립니다.
+> 이 프로젝트는, UE4Jam Korea 2018에 출품한 작품으로, 언리얼엔진4로 제작되었습니다. 3일의 짧은 기간동안 1인 개발로 진행되어 많은 부분이 미흡하니 양해부탁드립니다.
+>
+> 이 프로젝트에는 상업적인 리소스가 포함되어 부득이하게 대다수의 리소스가 커밋 및 푸시에서 제외되었으며, 이는 이 프로젝트를 클론 및 다운로드하더라도 에디터에서의 프로젝트 오픈이 어려움을 뜻합니다. 
 
 About Project
 ---------
@@ -27,8 +28,8 @@ __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
 ![TipImg4](./Challenge/ForCommit/GitTip4.png)
 
 > 아래 경로에서 패키징된 실행파일을 다운로드 받으실 수 있습니다.
->* Version 0.2 (2018-07-30) [Download Link (Google Drive)][1] 
->* Version 0.4 (2018-08-04) [Download Link (Google Drive)][2] // 0.4ver에 구현된 레벨스트리밍이 최적화가 되지 않아, 사양으로 인한 문제가 발생할 수 있습니다. 
+>* Version 0.2 (2018-07-30) [Download Link (Google Drive)][1] // UE4Jam Korea 2018 ver
+>* Version 0.4 (2018-08-04) [Download Link (Google Drive)][2] // 추가 구현사항으로 최적화 이슈가 발생할 수 있습니다. 
 
 재밌게 플레이해주세요!
 
@@ -41,7 +42,7 @@ __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
 >* Version 0.2 (2018-07-30) SuccessVFX 추가, SuccessSFX 제거, MultiOverlap exception handling
 >* Version 0.3 (2018-08-01) Private: Adjust Precomputed Lighting Scenarios ( Day, Night )
 >* Version 0.4 (2018-08-04) Adjust Precomputed Lighting Scenarios ( Day, Night ), Etc Bug Fix
-
+> ![PrecomputedLightingScenariosImg](./Challenge/ForCommit/TwoLightLevelImage.png)
 
 > __Known bugs__
 > 1. 0.4 버전으로 실행 시, 최적화되지 않은 Precomputed Lighting Scenarios의 LevelStreaming이 적용되어 있습니다. 이는 충분한 고사양의 컴퓨터가 아닐 경우, 프레임 저하 혹은 프로그램 다운이 일어날 수 있습니다. (i7-8700k과 동급 혹은 그 이상의 프로세스, gtx1080ti 과 동급 혹은 그 이상의 그래픽 카드 권장)
@@ -54,4 +55,4 @@ __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
 
 
 [1]:https://drive.google.com/open?id=1dmDOBL34az80TLjYGfEAXXLuSLGWBLla
-[2]:https://drive.google.com/open?id=1dmDOBL34az80TLjYGfEAXXL
+[2]:https://drive.google.com/open?id=1zp7D652sSwpT4-Tf2jwDFPSgvQ-3T6p2
