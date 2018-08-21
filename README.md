@@ -1,5 +1,4 @@
 # UE4Jam_Korea_2018
-
 __도전에 도전하라 : "Find the plug!" project 저장소에 방문해주셔서 감사합니다!__
 
 ![TitleImg](./Challenge/ForCommit/Title.png)
