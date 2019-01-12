@@ -15,6 +15,10 @@ About Project
 >
 >이러한 독특한 컨셉에 적합하도록 밝은 BGM과 익살스러운 애니메이션, 엽기적인 레벨 디자인 등을 활용하여 캐주얼적인 특징을 강조하였고, 잠입 액션 특유의 퍼즐성 또한 구현하여, 플레이어들에게 새로운 경험을 제공하고자 노력했습니다.
 
+Play Movie
+---------
+>[![Video Label](http://img.youtube.com/vi/Lvh5gtjlnHY/0.jpg)](https://youtu.be/Lvh5gtjlnHY?t=0s) <- 클릭 :)
+
 How To Play
 --------
 __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
