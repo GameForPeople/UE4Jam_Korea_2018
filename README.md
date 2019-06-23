@@ -32,6 +32,7 @@ __아래 사진들은 인게임 튜토리얼 팝업이미지 입니다.__
 ![TipImg4](./Challenge/ForCommit/GitTip4.png)
 
 > 아래 경로에서 패키징된 실행파일을 다운로드 받으실 수 있습니다.
+> (19/06/24부로 더이상 다운로드를 제공하지 않습니다. 감사합니다.)
 >* Version 0.2 (2018-07-30) [Download Link (Google Drive)][1] // UE4Jam Korea 2018 ver
 >* Version 0.4 (2018-08-04) [Download Link (Google Drive)][2] // 추가 구현사항으로 최적화 이슈가 발생할 수 있습니다. 
 
