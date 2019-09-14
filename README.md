@@ -17,7 +17,7 @@ About Project
 
 Play Movie
 ---------
->[![Video Label](http://img.youtube.com/vi/Lvh5gtjlnHY/0.jpg)](https://youtu.be/Lvh5gtjlnHY?t=0s) <- 클릭 :)
+>[![Video Label](http://img.youtube.com/vi/Lvh5gtjlnHY/0.jpg)](https://youtu.be/Lvh5gtjlnHY?t=0s) <- 클릭하시면 영상을 보실 수 있습니다. :)
 
 How To Play
 --------
